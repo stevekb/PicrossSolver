@@ -1,0 +1,2 @@
+# PicrossSolver
+Solves Picross Puzzles
